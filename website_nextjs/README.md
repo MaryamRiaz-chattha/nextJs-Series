@@ -35,4 +35,14 @@ Loading and Error Pages:
 - Create a custom error page to handle cases where a post is not found or when there's an error fetching data.
   Components:
 - add Navbar.
-- add sidenav.
+- add sidenav
+- ![home](https://github.com/user-attachments/assets/4508e6ed-5cd2-41f7-b5e9-b2425716bbcb)
+- ![blog](https://github.com/user-attachments/assets/2b173b23-e44d-45c8-8c58-9d1968e04554)
+- ![dynamic](https://github.com/user-attachments/assets/c2cc8605-f3a6-4277-a3ca-6effd0c3922a)
+- ![error](https://github.com/user-attachments/assets/7d317f3e-32d4-4da3-8f11-97bdcbba3ae9)
+
+
+
+- 
+
+
